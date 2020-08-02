@@ -6,9 +6,6 @@ I am a Final Year Computer Science Major at the University of Michigan. I do not
 - 👯 I'm looking to Collaborate on ANYTHING that is a fun Project 🤣
 - ⚡ Fun Fact: I always strive to do things differently (*Weird is Cool!*)
 
----
-### Metrics! 📈
-
 
 ---
 ### Development Stats 🚀
